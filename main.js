@@ -11,4 +11,3 @@ var dias=["dom", "lun", "mar", "mie", "jue", "vie", "sab"];
 
 var numerosimpares= [1,3,5];
 
-document.write(nombre);
